@@ -10,7 +10,7 @@ sudo npm install -g pm2
 sudo mkdir -p /srv/strapi
 sudo chown -R ubuntu:ubuntu /srv/strapi
 # Clone the repository
-git clone https://github.com/Pramod858/simple-strapi /srv/strapi
+git clone https://github.com/mominhuzaifa/strapi_terraform.git /srv/strapi
 cd /srv/strapi
 chmod +x generate_env_var.sh
 ./generate_env_var.sh

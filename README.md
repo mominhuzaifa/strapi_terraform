@@ -1,3 +1,6 @@
+task - 3
+
+
 # Strapi Deployment on EC2 using Terraform
 
 This repository contains Terraform configurations for deploying the Strapi application on an EC2 instance. The configurations are designed to set up and manage the infrastructure required to run Strapi, including creating an EC2 instance and configuring it with the necessary software.
